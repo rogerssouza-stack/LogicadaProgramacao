@@ -1,2 +1,2 @@
 # LogicadaProgramacao
-Repositório de logica da programação
+Este repositótorio é foi feito para aplicar meus conhecimentos de versionamento.
